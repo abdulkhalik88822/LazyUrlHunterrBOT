@@ -11,7 +11,7 @@ class Config(object):
     BOT_SESSION_NAME = os.environ.get("BOT_SESSION_NAME", "MdiskSearchBot")
     USER_SESSION_STRING = os.environ.get("USER_SESSION_STRING", "1BVtsOJcBu3_a72xEoGQt8kT3LG9MFfTqsb8lH39QJzDyWv-feNShOGSOq6u3_UisU_70_F4LoOxDk6B7YnTCV3lcLMmGitajkf7vMvh5ri9-GB0or9jvKUVnC2fQx5ViXS3Yt38QgwrwUQbPT8jjpkj7yxarVjNDVSGP1jn2u6SIyRXmQ4id58S0HXkmjnBIaqYWvoENuLHfK6R0jb227t78NWrgxiaFkQ0UAL61_xUSFEXtzwn_YfnH6AZa87sANCjso3tj5CsafMv1q-f_fuPjsJs_mnl2hFa7q-NPCY_SrazNyKSCS7yMU08h_i3k5c4jqEhujQwR9n3qtpnswRByvqgn1IM=")
     CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001887632033")) 
-    BOT_USERNAME = os.environ.get("BOT_USERNAME", "searchbot")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "Auto_forword_dd_bot")
     BOT_OWNER = int(os.environ.get("BOT_OWNER", "6133440326"))
     DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://kailash:pass@cluster0.sqtztxm.mongodb.net/?retryWrites=true&w=majority")
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
