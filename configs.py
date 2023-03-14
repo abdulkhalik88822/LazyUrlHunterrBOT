@@ -13,7 +13,7 @@ class Config(object):
     CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001887632033")) 
     BOT_USERNAME = os.environ.get("BOT_USERNAME", "Auto_forword_dd_bot")
     BOT_OWNER = int(os.environ.get("BOT_OWNER", "6133440326"))
-    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://kailash:pass@cluster0.sqtztxm.mongodb.net/?retryWrites=true&w=majority")
+    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Abdul12:Abdul12@cluster0.o6jx2be.mongodb.net/?retryWrites=true&w=majority")
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
     ABOUT_BOT_TEXT = """<b> <a href='https://t.me/LazyUrlHunterrBOT'>Lazy Url Hunterr</a> is an open source project.
 
